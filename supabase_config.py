@@ -1,6 +1,7 @@
 from supabase import create_client
-url="https://xgrbrhmzvifqipkhdvso.supabase.co"
-key="sb_publishable_q9LsDFqXii8tignzyM38vw_Y5k1ehe6"
 
+# Updated with your new credentials
+url = "https://ajvbmqyxgouszohkrvzz.supabase.co"
+key = "sb_publishable_BGHrPP26CbqXocM2ZXJGPQ_Yljl4rPp"
 
-supabase=create_client(url,key)
+supabase = create_client(url, key)
